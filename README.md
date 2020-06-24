@@ -14,4 +14,4 @@
 | 1 | <a href="https://www.hackerrank.com/challenges/beautiful-triplets/problem">Beautiful Triplets</a>  | <a href="./Algorithm/BeautifulTriplets.java">Solutions</a> |
 | 2 | <a href="https://www.hackerrank.com/challenges/minimum-distances/problem">Minimum Distances</a>     | <a href="./Algorithm/MinDistances.java">Solutions</a>  |
 | 3 | <a href="https://www.hackerrank.com/challenges/halloween-sale/problem">Halloween Sale</a>           |<a href="./Algorithm/HalloweenSale.java">Solutions</a> |
-| 4 | <a href="https://www.hackerrank.com/challenges/the-time-in-words/problem">The Time in Words</a>     |<a href="./Algorithm/TimeToWords.java">Solutions</a> |
+| 4 | <a href="https://www.hackerrank.com/challenges/the-time-in-words/problem">The Time in Words</a>     |<a href="./Algorithm/TimetoWords.java">Solutions</a> |
