@@ -20,3 +20,4 @@
 | 7 | <a href="https://www.hackerrank.com/challenges/lisa-workbook/problem">Lisa's Workbook</a>     |<a href="./Algorithm/LisaWorkBook.java">Solutions</a> |
 | 8 | <a href="https://www.hackerrank.com/challenges/flatland-space-stations/problem">Flatland Space Stations</a>     |<a href="./Algorithm/FlatSpace.java">Solutions</a> |
 | 9 | <a href="https://www.hackerrank.com/challenges/fair-rations/problem">Fair Rations</a>     |<a href="./Algorithm/FairRations.java">Solutions</a> |
+| 10 | <a href="https://www.hackerrank.com/challenges/cavity-map/problem">Cavity Map</a>     |<a href="./Algorithm/CapvityMap.java">Solutions</a> |
