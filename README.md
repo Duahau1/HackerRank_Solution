@@ -15,3 +15,4 @@
 | 2 | <a href="https://www.hackerrank.com/challenges/minimum-distances/problem">Minimum Distances</a>     | <a href="./Algorithm/MinDistances.java">Solutions</a>  |
 | 3 | <a href="https://www.hackerrank.com/challenges/halloween-sale/problem">Halloween Sale</a>           |<a href="./Algorithm/HalloweenSale.java">Solutions</a> |
 | 4 | <a href="https://www.hackerrank.com/challenges/the-time-in-words/problem">The Time in Words</a>     |<a href="./Algorithm/TimetoWords.java">Solutions</a> |
+| 5 | <a href="https://www.hackerrank.com/challenges/chocolate-feast/problem">Chocolate Feast</a>     |<a href="./Algorithm/ChocolateFeast.java">Solutions</a> |
