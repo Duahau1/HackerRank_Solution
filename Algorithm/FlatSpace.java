@@ -25,7 +25,6 @@ public class Solution {
                         retVal.add(0);
                         continue;
                     }
-                    System.out.println(i);
                    int  min=Math.abs(i-c[0]);
                 for(int j=0;j<c.length;j++){
                     if(Math.abs(i-c[j])<=min){
