@@ -29,6 +29,6 @@
 | 1 | <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/rerouting/copy-from/1324519534"> Rerouting</a> | <a href="./Algorithm/Rerouting.java"> Solution </a> |
 | 2 | <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/candy-crush-4/problem"> Jewel Game</a> | <a href="./Algorithm/JewelGame.java"> Solution </a> |
 | 3 | <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/the-xor-problem/problem"> XOR Problem</a> | <a href="./Algorithm/XORProblem.java"> Solution </a> |
-
+| 4 | <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/strange-keyboard-1/problem"> New Keyboard</a> | <a href="./Algorithm/NewKeyboard.java"> Solution </a> |
 
 
