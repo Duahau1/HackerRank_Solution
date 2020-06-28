@@ -25,7 +25,8 @@
 <ins><h1>Hack The Interview Contest V (Asia Pacific)</h1></ins>
 | Number | Problem | Solution
 | --- | --- | --- |
-| 1 | <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/rerouting/copy-from/1324519534"> Rerouting</a>  | <a href="./Algorithm/Rerouting.java"> Solution </a>  |
+| 1 | <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/rerouting/copy-from/1324519534"> Rerouting</a> | 
+<a href="./Algorithm/Rerouting.java"> Solution </a>  |
 | 2 | <a href="https://www.hackerrank.com/challenges/minimum-distances/problem">Minimum Distances</a>     | <a href="./Algorithm/MinDistances.java">Solutions</a>  |
 
 
