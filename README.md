@@ -21,3 +21,7 @@
 | 8 | <a href="https://www.hackerrank.com/challenges/flatland-space-stations/problem">Flatland Space Stations</a>     |<a href="./Algorithm/FlatSpace.java">Solutions</a> |
 | 9 | <a href="https://www.hackerrank.com/challenges/fair-rations/problem">Fair Rations</a>     |<a href="./Algorithm/FairRations.java">Solutions</a> |
 | 10 | <a href="https://www.hackerrank.com/challenges/cavity-map/problem">Cavity Map</a>     |<a href="./Algorithm/CavityMap.java">Solutions</a> |
+<ins><h1>Hack The Interview Contest V (Asia Pacific)</h1></ins>
+| Number | Problem | Solution
+| --- | --- | --- |
+|1| <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/rerouting/copy-from/1324519534"> Rerouting</a>| <a href="./Algorithm/Rerouting.java"> Solution </a>|
