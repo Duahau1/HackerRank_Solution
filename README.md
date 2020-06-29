@@ -22,9 +22,10 @@
 | 9 | <a href="https://www.hackerrank.com/challenges/fair-rations/problem">Fair Rations</a>     |<a href="./Algorithm/FairRations.java">Solution</a> |
 | 10 | <a href="https://www.hackerrank.com/challenges/cavity-map/problem">Cavity Map</a>     |<a href="./Algorithm/CavityMap.java">Solution</a> |
 | 11 | <a href="https://www.hackerrank.com/challenges/minimum-swaps-2/problem">Minimum Swap 2</a>     |<a href="./Algorithm/MinimumSwaps.java">Solution</a> |
-| 11 | <a href="hackerrank.com/challenges/sherlock-and-anagrams/problem?">Sherlock and Anagrams </a>     |<a href="./Algorithm/SherlockAnagrams.java">Solution</a> |
-| 12 | <a href="https://www.hackerrank.com/challenges/ctci-ransom-note/problem">Ransom Note </a>     |<a href="./Algorithm/RansomNote.java">Solution</a> |
-| 12 | <a href="https://www.hackerrank.com/challenges/frequency-queries/problem">Frequency Queries </a>     |<a href="./Algorithm/FrequencyQueries.java">Solution</a> |
+| 12 | <a href="hackerrank.com/challenges/sherlock-and-anagrams/problem?">Sherlock and Anagrams </a>     |<a href="./Algorithm/SherlockAnagrams.java">Solution</a> |
+| 13 | <a href="https://www.hackerrank.com/challenges/ctci-ransom-note/problem">Ransom Note </a>     |<a href="./Algorithm/RansomNote.java">Solution</a> |
+| 14 | <a href="https://www.hackerrank.com/challenges/frequency-queries/problem">Frequency Queries </a>     |<a href="./Algorithm/FrequencyQueries.java">Solution</a> |
+| 15 | <a href="https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem">Dectect Cycle Linked List </a>     |<a href="./Algorithm/DetectCycle.java">Solution</a> |
 
 <br />
 <ins><h1>Hack The Interview Contest V (Asia Pacific)</h1></ins>
