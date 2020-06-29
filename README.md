@@ -23,6 +23,7 @@
 | 10 | <a href="https://www.hackerrank.com/challenges/cavity-map/problem">Cavity Map</a>     |<a href="./Algorithm/CavityMap.java">Solution</a> |
 | 11 | <a href="https://www.hackerrank.com/challenges/minimum-swaps-2/problem">Minimum Swap 2</a>     |<a href="./Algorithm/MinimumSwaps.java">Solution</a> |
 | 11 | <a href="hackerrank.com/challenges/sherlock-and-anagrams/problem?">Sherlock and Anagrams </a>     |<a href="./Algorithm/SherlockAnagrams.java">Solution</a> |
+| 12 | <a href="https://www.hackerrank.com/challenges/ctci-ransom-note/problem">Ransom Note </a>     |<a href="./Algorithm/RansomNote.java">Solution</a> |
 
 <br />
 <ins><h1>Hack The Interview Contest V (Asia Pacific)</h1></ins>
