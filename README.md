@@ -26,6 +26,8 @@
 | 13 | <a href="https://www.hackerrank.com/challenges/ctci-ransom-note/problem">Ransom Note </a>     |<a href="./Algorithm/RansomNote.java">Solution</a> |
 | 14 | <a href="https://www.hackerrank.com/challenges/frequency-queries/problem">Frequency Queries </a>     |<a href="./Algorithm/FrequencyQueries.java">Solution</a> |
 | 15 | <a href="https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem">Dectect Cycle Linked List </a>     |<a href="./Algorithm/DetectCycle.java">Solution</a> |
+| 15 | <a href="https://www.hackerrank.com/challenges/mark-and-toys/problem">Mark and Toys </a>     |<a href="./Algorithm/MarkandToys.java">Solution</a> |
+
 
 <br />
 <ins><h1>Hack The Interview Contest V (Asia Pacific)</h1></ins>
