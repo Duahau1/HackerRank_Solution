@@ -27,6 +27,7 @@
 | 14 | <a href="https://www.hackerrank.com/challenges/frequency-queries/problem">Frequency Queries </a>     |<a href="./Algorithm/FrequencyQueries.java">Solution</a> |
 | 15 | <a href="https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem">Dectect Cycle Linked List </a>     |<a href="./Algorithm/DetectCycle.java">Solution</a> |
 | 16 | <a href="https://www.hackerrank.com/challenges/mark-and-toys/problem">Mark and Toys </a>     |<a href="./Algorithm/MarkandToys.java">Solution</a> |
+| 17 | <a href="https://www.hackerrank.com/challenges/max-array-sum/problem?">Max Array Sum </a>     |<a href="./Algorithm/MaxArraySum.java">Solution</a> |
 
 
 <br />
