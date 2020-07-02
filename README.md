@@ -29,6 +29,7 @@
 | 16 |Sorting  |<a href="https://www.hackerrank.com/challenges/mark-and-toys/problem">Mark and Toys </a>     |<a href="./Algorithm/MarkandToys.java">Solution</a> |
 | 17 |Dynamic Programming  |<a href="https://www.hackerrank.com/challenges/max-array-sum/problem">Max Array Sum </a>     |<a href="./Algorithm/MaxArraySum.java">Solution</a> |
 | 18 |Dynamic Programming  |<a href="https://www.hackerrank.com/challenges/candies/problem">Candies </a>     |<a href="./Algorithm/DynoCandies.java">Solution</a> |
+| 19 |String  |<a href="https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem">Sherlock and The Valid String </a>     |<a href="./Algorithm/SherlockValidString.java">Solution</a> |
 
 
 <br />
