@@ -9,6 +9,12 @@ import java.util.regex.*;
 public class Solution {
 
     // Complete the larrysArray function below.
+    /*
+    This algorithm is based on the odd and even partion where it depends on the number of inversion to make the array satisfy 2 conditions: 
+        { 1. a[i]<a[j] 2. i<j} so the inversion happen when the first condition is opposite. If the number of inversion is odd then it means the we cannot invert the array
+        back to ascending order whereas if the inversion is even we can rotate between 3 elements and sort it.
+        
+    */
     static String larrysArray(int[] A) {
         int count=0;
         for(int i =0; i< A.length;i++){
