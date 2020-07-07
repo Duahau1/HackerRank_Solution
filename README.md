@@ -31,6 +31,7 @@
 | 18 |Dynamic Programming  |<a href="https://www.hackerrank.com/challenges/candies/problem">Candies </a>     |<a href="./Algorithm/DynoCandies.java">Solution</a> |
 | 19 |String  |<a href="https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem">Sherlock and The Valid String </a>     |<a href="./Algorithm/SherlockValidString.java">Solution</a> |
 | 20 |Queue  |<a href="https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem">Queues implementation </a>  |<a href="./Algorithm/Queue.java">Solution</a> |
+| 21 |Queue  |<a href="https://www.hackerrank.com/challenges/the-love-letter-mystery/problem">Letter Mystery </a>  |<a href="./Algorithm/LetterMystery.java">Solution</a> |
 
 
 <br />
