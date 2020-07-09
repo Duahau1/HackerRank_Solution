@@ -35,7 +35,8 @@
 | 22 |Misc |<a href="https://www.hackerrank.com/challenges/larrys-array/problem">Larry's Array </a>  |<a href="./Algorithm/Larry_Array.java">Solution</a> |
 | 23 |Queue && Stack |<a href="https://www.hackerrank.com/challenges/almost-sorted/problem">Almost Sorted </a>  |<a href="./Algorithm/AlmostSorted.java">Solution</a> |
 | 24 |String |<a href="https://www.hackerrank.com/challenges/encryption/problem">Encryption </a>  |<a href="./Algorithm/Encryption.java">Solution</a> |
-| 25 |String |<a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater </a>  |<a href="./Algorithm/Bigger.java">Solution</a> |
+| 25 |Array |<a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater </a>  |<a href="./Algorithm/Bigger.java">Solution</a> |
+| 26 |Math |<a href="https://www.hackerrank.com/challenges/strange-code/problem">Strange Counter </a>  |<a href="./Algorithm/StrangeCounter.java">Solution</a> |
 
 
 <br />
