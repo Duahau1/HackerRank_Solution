@@ -37,7 +37,7 @@
 | 24 |String |<a href="https://www.hackerrank.com/challenges/encryption/problem">Encryption </a>  |<a href="./Algorithm/Encryption.java">Solution</a> |
 | 25 |Array |<a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater </a>  |<a href="./Algorithm/Bigger.java">Solution</a> |
 | 26 |Math |<a href="https://www.hackerrank.com/challenges/strange-code/problem">Strange Counter </a>  |<a href="./Algorithm/StrangeCounter.java">Solution</a> |
-| 27 |Math |<a href="https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem">Ice Cream Parlor </a>  |<a href="./Algorithm/IceCreamParlor.java">Solution</a> |
+| 27 |Math |<a href="https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem">Ice Cream Parlor </a>  |<a href="./Algorithm/IcecreamParlor.java">Solution</a> |
 
 
 <br />
