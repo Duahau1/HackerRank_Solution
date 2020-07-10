@@ -7,7 +7,23 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Solution {
-
+/*
+var i=0,j=1,count=0;
+    
+    while(j < n) {
+        var diff = nums[j] - nums[i];
+        
+        if (diff == k) {
+            count++;
+            j++;
+        } else if (diff > k) {
+            i++;
+        } else if (diff < k) {
+            j++;
+        }
+    }
+    Quick Java Script solution that works as it is guaranteed that n is greater than 0
+*/
     // Complete the pairs function below.
     static int pairs(int money, int[] cost) {
         int retVal=0;
