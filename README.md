@@ -39,6 +39,7 @@
 | 26 |Math |<a href="https://www.hackerrank.com/challenges/strange-code/problem">Strange Counter </a>  |<a href="./Algorithm/StrangeCounter.java">Solution</a> |
 | 27 |Hash Map |<a href="https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem">Ice Cream Parlor </a>  |<a href="./Algorithm/IcecreamParlor.java">Solution</a> |
 | 28 |Hash Map |<a href="https://www.hackerrank.com/challenges/pairs/problem">Pairs </a>|<a href="./Algorithm/DiffPairs.java">Solution</a> |
+| 29 |Array |<a href="https://www.hackerrank.com/challenges/triple-sum/problem">Triple Sum </a>|<a href="./Algorithm/TripleSum.java">Solution</a> |
 
 
 <br />
