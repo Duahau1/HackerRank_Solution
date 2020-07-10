@@ -38,7 +38,7 @@
 | 25 |Array |<a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater </a>  |<a href="./Algorithm/Bigger.java">Solution</a> |
 | 26 |Math |<a href="https://www.hackerrank.com/challenges/strange-code/problem">Strange Counter </a>  |<a href="./Algorithm/StrangeCounter.java">Solution</a> |
 | 27 |Hash Map |<a href="https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem">Ice Cream Parlor </a>  |<a href="./Algorithm/IcecreamParlor.java">Solution</a> |
-| 28 |Hash Map |<a href="https://www.hackerrank.com/challenges/pairs/problem">Ice Cream Parlor </a>|<a href="./Algorithm/DiffPairs.java">Solution</a> |
+| 28 |Hash Map |<a href="https://www.hackerrank.com/challenges/pairs/problem">Pairs </a>|<a href="./Algorithm/DiffPairs.java">Solution</a> |
 
 
 <br />
