@@ -53,4 +53,8 @@
 | 3 | <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/the-xor-problem/problem"> XOR Problem</a> | <a href="./Algorithm/XORProblem.java"> Solution </a> |
 | 4 | <a href="https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/strange-keyboard-1/problem"> New Keyboard</a> | <a href="./Algorithm/NewKeyboard.java"> Solution </a> |
 
-
+<br />
+<ins><h1>REST API Certificate </h1></ins>
+| Number | Type | Solution
+| --- | --- | --- |
+| 1 |REST API | <a href="./Algorithm/Football1.js"> Solution </a> |
