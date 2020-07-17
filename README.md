@@ -59,3 +59,5 @@
 | Number | Type | Solution
 | --- | --- | --- |
 | 1 |REST API | <a href="./Algorithm/Football1.js"> Solution </a> |
+| 2 |REST API | <a href="./Algorithm/Football2.js"> Solution </a> |
+
