@@ -66,6 +66,6 @@
 
 | Number | Type | Solution
 | --- | --- | --- |
-| 1 |Recursion | <a href="./Algorithm/Steamroller.js"> Solution </a> |
+| 1 | Recursion | <a href="./Algorithm/Steamroller.js"> Solution </a> |
 
  
