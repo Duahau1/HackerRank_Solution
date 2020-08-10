@@ -62,10 +62,11 @@
 | 2 |REST API | <a href="./Algorithm/Football2.js"> Solution </a> |
 
 <br/>
-<ins><h1> JS Challenges </h1><ins>
+<ins><h1> JS Challenges </h1></ins>
 
 | Number | Type | Solution
 | --- | --- | --- |
 | 1 | Array prototype | <a href="./Algorithm/Steamroller.js"> Solution </a> |
+
 
  
