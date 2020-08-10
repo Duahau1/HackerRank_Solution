@@ -6,7 +6,7 @@
 <p align="center">
 :mechanical_arm:	HackerRank Challenge Repo :mechanical_arm:	
 </p>
-<h5>Solutions are coded using Java 7, Java 8</h5>
+<h5>Solutions are coded using Java 7, Java 8, JS</h5>
 
 <ins><h1> Algorithms </h1></ins>
 | Number | Type | Problem | Solution
