@@ -42,6 +42,7 @@
 | 29 |Array |<a href="https://www.hackerrank.com/challenges/triple-sum/problem">Triple Sum </a>|<a href="./Algorithm/TripleSum.java">Solution</a> |
 | 30 |Dynamic Programming |<a href="https://www.hackerrank.com/challenges/coin-change/problem">The Coin Change Problem </a>|<a href="./Algorithm/CoinChange.java">Solution</a> |
 | 31 |Hash Map |<a href="https://www.hackerrank.com/challenges/happy-ladybugs/problem">Happy Ladybug </a>|<a href="./Algorithm/ladyBug.java">Solution</a> |
+| 32 |String |<a href="https://www.hackerrank.com/challenges/two-characters/problem">Two Characters</a>|<a href="./Algorithm/twoCharacters.js">Solution</a> |
 
 
 <br />
