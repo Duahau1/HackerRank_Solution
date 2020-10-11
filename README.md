@@ -69,6 +69,7 @@
 | Number | Type | Solution
 | --- | --- | --- |
 | 1 | Array prototype | <a href="./Algorithm/Steamroller.js"> Solution </a> |
+| 2 | <a href="https://www.hackerrank.com/challenges/react-paginated-articles/problem?isFullScreen=true">React JS</a>  <a href="./Algorithm/Article.js"> Solution </a> |
 
 
  
