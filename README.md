@@ -44,7 +44,7 @@
 | 31 |Hash Map |<a href="https://www.hackerrank.com/challenges/happy-ladybugs/problem">Happy Ladybug </a>|<a href="./Algorithm/ladyBug.java">Solution</a> |
 | 32 |String |<a href="https://www.hackerrank.com/challenges/two-characters/problem">Two Characters</a>|<a href="./Algorithm/twoCharacters.js">Solution</a> |
 | 33 |Hash Map |<a href="https://www.hackerrank.com/challenges/weighted-uniform-string/problem">Weighted Uniform Strings</a>|<a href="./Algorithm/WeightedUniform.js">Solution</a> |
-
+| 34 | Array |<a href="https://www.hackerrank.com/challenges/luck-balance/problem">Luck Balance</a>|<a href="./Algorithm/LuckBalance.js">Solution</a> |
 
 <br />
 <ins><h1>Hack The Interview Contest V (Asia Pacific)</h1></ins>
