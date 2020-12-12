@@ -43,6 +43,7 @@
 | 30 |Dynamic Programming |<a href="https://www.hackerrank.com/challenges/coin-change/problem">The Coin Change Problem </a>|<a href="./Algorithm/CoinChange.java">Solution</a> |
 | 31 |Hash Map |<a href="https://www.hackerrank.com/challenges/happy-ladybugs/problem">Happy Ladybug </a>|<a href="./Algorithm/ladyBug.java">Solution</a> |
 | 32 |String |<a href="https://www.hackerrank.com/challenges/two-characters/problem">Two Characters</a>|<a href="./Algorithm/twoCharacters.js">Solution</a> |
+| 32 |Hash Map |<a href="https://www.hackerrank.com/challenges/weighted-uniform-string/problem">Weighted Uniform Strings</a>|<a href="./Algorithm/weightedUniform.js">Solution</a> |
 
 
 <br />
